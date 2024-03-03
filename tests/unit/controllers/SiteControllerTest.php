@@ -1,6 +1,6 @@
 <?php
 namespace test\unit\Controllers;
-use app\controller\SiteController;
+use app\controllers\SiteController;
 use Yii;
 
 class SiteControllerTest extends \Codeception\Test\Unit
